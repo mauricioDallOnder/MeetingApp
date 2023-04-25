@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/chat-dos-otarios.appspot.com/o/images%2Ffundo.png?alt=media&token=b2298204-e739-4356-ab39-06200d36fe1d');
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Inter', sans-serif;
+}
+
